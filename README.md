@@ -10,7 +10,7 @@
 -  ✍ I'm currently studying at [Universitas Multi Data Palembang](https://mdp.ac.id/)
 -  📩 How to reach me **riki1828.rk@mhs.mdp.ac.id**
 -  🎮 Playing games is one of my hobbies
--  😧 How do you count cows? With a cowculator 
+-  🤯 How do you count cows? With a cowculator 
 
 <h3 align="left">My social media 👇😁 :</h3>
 <a href="https://instagram.com/Rickyels_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
