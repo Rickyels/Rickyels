@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/u8ccDI7u9MkAAAAM/yes-shaun-the-sheep.gif">
 
-[![](https://visitcount.itsvg.in/api?id=SrFebry&label=Views&color=0&icon=1&pretty=true)
+![](https://visitcount.itsvg.in/api?id=Rickyels&label=Views&color=0&icon=1&pretty=true)
 
 -  **I'm currently learning.**
 -  **How do you count cows? With a cowculator. 😧**
