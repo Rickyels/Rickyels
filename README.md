@@ -1,3 +1,4 @@
+[![Masterhead](https://raw.githubusercontent.com/Rickyels/Rickyels/main/github-header-image%20(1).png)
 <h1 align="center">Hi there 👋, I'm Ricky!</h1>
 <h3 align="center">A student from MDP University</h3>
 
