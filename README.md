@@ -9,7 +9,7 @@
 
 -  **I'm currently learning.**
 -  **How do you count cows? With a cowculator. 😧**
-<h3 align="left">My social media ⬇:😁:</h3>
+<h3 align="left">My social media 👇😁 :</h3>
 <a href="https://instagram.com/Rickyels_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 
 <h3 align="left">Tools :</h3>
