@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/u8ccDI7u9MkAAAAM/yes-shaun-the-sheep.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rickyels&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rickyels&label=Profile%20views&color=0e75b6&style=flat" alt="Rickyels" /> </p>
 
 -  **I'm currently learning.**
 -  **How do you count cows? With a cowculator. 😧**
