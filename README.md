@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rickyels&label=Profile%20views&color=0e75b6&style=flat"> </p>
 
--  I'm currently studying at [Universitas Multi Data Palembang](https://mdp.ac.id/)
+-  ✍I'm currently studying at [Universitas Multi Data Palembang](https://mdp.ac.id/)
 -  📩 How to reach me **riki1828.rk@mhs.mdp.ac.id**
 -  🎮 Playing games is one of my hobbies
 -  😧 How do you count cows? With a cowculator 
