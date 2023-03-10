@@ -5,8 +5,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/u8ccDI7u9MkAAAAM/yes-shaun-the-sheep.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rickyels&label=Profile%20views&color=0e75b6&style=flat"> </p>
-
 -  ✍ I'm currently studying at [Universitas Multi Data Palembang](https://mdp.ac.id/)
 -  📩 How to reach me **riki1828.rk@mhs.mdp.ac.id**
 -  🎮 Playing games is one of my hobbies
